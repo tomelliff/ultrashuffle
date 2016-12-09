@@ -15,6 +15,7 @@ paginate = 20
 [params]
     home = "Ultrashuffle"
     tagline = "A slow motion adventure up hills and through bogs"
+    gravatarHash = "cb6c6c20f2613c8af1967a5dcd79152e"
     customCSS = "css/mind-over-matter.css"
     rss = true
     truncate = true
