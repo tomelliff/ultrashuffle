@@ -1,7 +1,7 @@
 baseurl = "http://www.ultrashuffle.co.uk/"
 languageCode = "en-us"
 title = "Ultrashuffle - A slow motion adventure up hills and through bogs!"
-# disqusShortname = "ultrashuffle" # Optional, enable Disqus integration
+disqusShortname = "ultrashuffle"
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 20
