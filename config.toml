@@ -1,0 +1,20 @@
+baseurl = "http://www.ultrashuffle.co.uk/"
+languageCode = "en-us"
+title = "Ultrashuffle - A slow motion adventure up hills and through bogs!"
+# disqusShortname = "ultrashuffle" # Optional, enable Disqus integration
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 20
+
+[taxonomies]
+    tag = "tags"
+
+[author]
+    name = "Tom Elliff"
+
+[params]
+    home = "Ultrashuffle"
+    tagline = "A slow motion adventure up hills and through bogs"
+    customCSS = "css/mind-over-matter.css"
+    rss = true
+    truncate = true
